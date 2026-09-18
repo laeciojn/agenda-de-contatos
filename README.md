@@ -68,10 +68,6 @@ Ao iniciar a aplicação, um menu será exibido no terminal. Digite o número co
 
 Os contatos são armazenados apenas durante a execução do programa. Ao encerrar a aplicação, os dados não são persistidos em um arquivo ou banco de dados.
 
-## Autor
-
-Desenvolvido por [Laecio Junior](https://github.com/laeciojn).
-
 ## Licença
 
 Este projeto foi desenvolvido para fins educacionais.
